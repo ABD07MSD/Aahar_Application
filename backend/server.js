@@ -6,7 +6,6 @@ import userRouter from "./routes/userRoute.js";
 import cartRouter from "./routes/cartRoute.js";
 import orderRouter from "./routes/orderRoute.js";
 
-// mongodb+srv://sonu7:12345@cluster0.vywnm.mongodb.net/?
 
 
 // App Config
